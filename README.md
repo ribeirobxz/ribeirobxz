@@ -1,4 +1,4 @@
-![](![](https://komarev.com/ghpvc/?username=ribeirobxz))
+![](https://komarev.com/ghpvc/?username=ribeirobxz&abbreviated=true)
 
 Meu nome é Kauã, tenho 17 anos e sou fascinado por tecnologia desde os meus 8 anos.
 
