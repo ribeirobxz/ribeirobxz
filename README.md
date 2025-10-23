@@ -1,6 +1,6 @@
 ![](![](https://komarev.com/ghpvc/?username=ribeirobxz))
 
-Meu nome é Kauã, tenho 16 anos e sou fascinado por tecnologia desde os meus 8 anos.
+Meu nome é Kauã, tenho 17 anos e sou fascinado por tecnologia desde os meus 8 anos.
 
 ## Minhas Skills
 
