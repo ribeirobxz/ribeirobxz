@@ -4,9 +4,7 @@
 
 Tenho 17 anos, sou de Santa Catarina e entrei no mundo da tecnologia com 8 anos e nunca mais saí.
 Atualmente trabalho como **Analista de DBA na Eximio TI** e estudo **Sistemas de Informação na UNIFEBE**.
-Meu foco é backend e banco de dados, mas gosto de entender o sistema como um todo.
-
-Já fui professor auxiliar na CodigoKid Brusque, o que me ensinou que ensinar é uma das melhores formas de aprender.
+Meu foco atual é Análise de Dados e desenvolvimento.
 
 ---
 
