@@ -2,7 +2,7 @@
 
 # Olá, sou o Kauã 👋
 
-Tenho 17 anos, sou de Santa Catarina e entrei no mundo da tecnologia com 8 anos — e nunca mais saí.
+Tenho 17 anos, sou de Santa Catarina e entrei no mundo da tecnologia com 8 anos e nunca mais saí.
 Atualmente trabalho como **Analista de DBA na Eximio TI** e estudo **Sistemas de Informação na UNIFEBE**.
 Meu foco é backend e banco de dados, mas gosto de entender o sistema como um todo.
 
